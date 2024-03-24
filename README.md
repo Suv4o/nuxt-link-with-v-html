@@ -1,75 +1,19 @@
-# Nuxt 3 Minimal Starter
+# Is it possible to use `<nuxt-link>` in content rendered with `v-html`?
 
-Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+This example is part of my blog post [Is it possible to use `<nuxt-link>` in content rendered with `v-html`](https://www.trpkovski.com/2024/03/24/is-it-possible-to-use-nuxt-link-in-content-rendered-with-v-html). Please refer to the blog article for detailed explanation.
 
-## Setup
+![Hero image](https://res.cloudinary.com/suv4o/image/upload/q_auto,f_auto,w_1200,e_sharpen:100/v1711259337/blog/Is%20it%20possible%20to%20use%20nuxt-link%20in%20content%20rendered%20with%20v-html/aktookoffk14wzluq2er)
 
-Make sure to install the dependencies:
+# Getting started with the project
+
+## Install dependencies
 
 ```bash
-# npm
-npm install
-
-# pnpm
-pnpm install
-
-# yarn
-yarn install
-
-# bun
-bun install
+yarn
 ```
 
-## Development Server
-
-Start the development server on `http://localhost:3000`:
+## Run the project
 
 ```bash
-# npm
-npm run dev
-
-# pnpm
-pnpm run dev
-
-# yarn
 yarn dev
-
-# bun
-bun run dev
 ```
-
-## Production
-
-Build the application for production:
-
-```bash
-# npm
-npm run build
-
-# pnpm
-pnpm run build
-
-# yarn
-yarn build
-
-# bun
-bun run build
-```
-
-Locally preview production build:
-
-```bash
-# npm
-npm run preview
-
-# pnpm
-pnpm run preview
-
-# yarn
-yarn preview
-
-# bun
-bun run preview
-```
-
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
